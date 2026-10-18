@@ -1,0 +1,98 @@
+{
+ "splitcifar100/class/ewc": {
+  "ewc_lambda": 100.0
+ },
+ "splitcifar100/class/mer": {
+  "lr": 0.1,
+  "mer_beta": 0.3
+ },
+ "splitcifar100/class/owm": {
+  "lr": 0.2,
+  "owm_alpha": 1.0
+ },
+ "splitcifar100/class/si": {
+  "si_c": 100.0
+ },
+ "splitcifar100/task/ewc": {
+  "ewc_lambda": 10000000.0
+ },
+ "splitcifar100/task/mer": {
+  "lr": 0.1,
+  "mer_beta": 0.3
+ },
+ "splitcifar100/task/owm": {
+  "lr": 0.2,
+  "owm_alpha": 1.0
+ },
+ "splitcifar100/task/si": {
+  "si_c": 100.0
+ },
+ "permmnist/domain/ewc": {
+  "ewc_lambda": 10000.0
+ },
+ "permmnist/domain/mer": {
+  "lr": 0.1,
+  "mer_beta": 0.3
+ },
+ "permmnist/domain/owm": {
+  "lr": 0.2,
+  "owm_alpha": 1.0
+ },
+ "permmnist/domain/si": {
+  "si_c": 1.0
+ },
+ "permmnist/domain/snn-ewc": {
+  "ewc_lambda": 1000000.0
+ },
+ "splitmnist/class/ewc": {
+  "ewc_lambda": 1000000.0
+ },
+ "splitmnist/class/mer": {
+  "lr": 0.1,
+  "mer_beta": 0.3
+ },
+ "splitmnist/class/owm": {
+  "lr": 0.2,
+  "owm_alpha": 0.01
+ },
+ "splitmnist/class/si": {
+  "si_c": 1.0
+ },
+ "splitmnist/class/snn-ewc": {
+  "ewc_lambda": 100000.0
+ },
+ "splitmnist/domain/ewc": {
+  "ewc_lambda": 10000000.0
+ },
+ "splitmnist/domain/mer": {
+  "lr": 0.1,
+  "mer_beta": 0.03
+ },
+ "splitmnist/domain/owm": {
+  "lr": 0.2,
+  "owm_alpha": 0.01
+ },
+ "splitmnist/domain/si": {
+  "si_c": 1.0
+ },
+ "splitmnist/domain/snn-ewc": {
+  "ewc_lambda": 100000.0
+ },
+ "splitmnist/task/ewc": {
+  "ewc_lambda": 10000000.0
+ },
+ "splitmnist/task/mer": {
+  "lr": 0.1,
+  "mer_beta": 0.3
+ },
+ "splitmnist/task/owm": {
+  "lr": 0.2,
+  "owm_alpha": 1.0
+ },
+ "splitmnist/task/si": {
+  "si_c": 10.0
+ },
+ "splitmnist/task/snn-ewc": {
+  "ewc_lambda": 1000000.0
+ }
+}

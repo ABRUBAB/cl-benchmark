@@ -1,0 +1,171 @@
+{
+ "config": {
+  "arch": "cnn",
+  "fc": 256,
+  "iters": 2000,
+  "batch_size": 128,
+  "lr": 0.001,
+  "buffer_size": 2000,
+  "n_fisher": 500,
+  "z_dim": 128,
+  "benchmark": "splitcifar100",
+  "scenario": "task",
+  "method": "joint",
+  "seed": 4,
+  "eval_split": "test"
+ },
+ "metrics": {
+  "ACC": 0.6689
+ },
+ "R": [
+  [
+   NaN,
+   NaN,
+   NaN,
+   NaN,
+   NaN,
+   NaN,
+   NaN,
+   NaN,
+   NaN,
+   NaN
+  ],
+  [
+   NaN,
+   NaN,
+   NaN,
+   NaN,
+   NaN,
+   NaN,
+   NaN,
+   NaN,
+   NaN,
+   NaN
+  ],
+  [
+   NaN,
+   NaN,
+   NaN,
+   NaN,
+   NaN,
+   NaN,
+   NaN,
+   NaN,
+   NaN,
+   NaN
+  ],
+  [
+   NaN,
+   NaN,
+   NaN,
+   NaN,
+   NaN,
+   NaN,
+   NaN,
+   NaN,
+   NaN,
+   NaN
+  ],
+  [
+   NaN,
+   NaN,
+   NaN,
+   NaN,
+   NaN,
+   NaN,
+   NaN,
+   NaN,
+   NaN,
+   NaN
+  ],
+  [
+   NaN,
+   NaN,
+   NaN,
+   NaN,
+   NaN,
+   NaN,
+   NaN,
+   NaN,
+   NaN,
+   NaN
+  ],
+  [
+   NaN,
+   NaN,
+   NaN,
+   NaN,
+   NaN,
+   NaN,
+   NaN,
+   NaN,
+   NaN,
+   NaN
+  ],
+  [
+   NaN,
+   NaN,
+   NaN,
+   NaN,
+   NaN,
+   NaN,
+   NaN,
+   NaN,
+   NaN,
+   NaN
+  ],
+  [
+   NaN,
+   NaN,
+   NaN,
+   NaN,
+   NaN,
+   NaN,
+   NaN,
+   NaN,
+   NaN,
+   NaN
+  ],
+  [
+   0.671,
+   0.621,
+   0.675,
+   0.625,
+   0.667,
+   0.675,
+   0.702,
+   0.656,
+   0.665,
+   0.732
+  ]
+ ],
+ "b": [
+  0.099,
+  0.114,
+  0.1,
+  0.1,
+  0.096,
+  0.094,
+  0.101,
+  0.119,
+  0.102,
+  0.118
+ ],
+ "time_per_task_s": [
+  708.5936884910006
+ ],
+ "train_time_s": 708.5936884910006,
+ "peak_gpu_mem_mb": 546.673828125,
+ "extra_state_mb": 0.0,
+ "n_params": 1140100,
+ "flags": {
+  "needs_task_id": false,
+  "needs_boundaries": false,
+  "stores_data": false
+ },
+ "env": {
+  "torch": "2.11.0+cu128",
+  "device": "Tesla T4",
+  "python": "3.13.15"
+ }
+}

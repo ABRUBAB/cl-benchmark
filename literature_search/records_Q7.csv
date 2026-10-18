@@ -1,0 +1,101 @@
+rank,year,title,venue,citations,doi,arxiv
+1,2024,AlphaEdit: Null-Space Constrained Knowledge Editing for Language Models,International Conference on Learning Representations,300,10.48550/arXiv.2410.02355,2410.02355
+2,2024,Continual Learning for Large Language Models: A Survey,arXiv.org,198,10.48550/arXiv.2402.01364,2402.01364
+3,2024,A Comprehensive Study of Knowledge Editing for Large Language Models,arXiv.org,186,10.48550/arXiv.2401.01286,2401.01286
+4,2024,WISE: Rethinking the Knowledge Memory for Lifelong Model Editing of Large Language Models,Neural Information Processing Systems,126,10.48550/arXiv.2405.14768,2405.14768
+5,2024,Model Editing at Scale leads to Gradual and Catastrophic Forgetting,Annual Meeting of the Association for Computational Linguistics,123,10.48550/arXiv.2401.07453,2401.07453
+6,2025,AnyEdit: Edit Any Knowledge Encoded in Language Models,International Conference on Machine Learning,97,10.48550/arXiv.2502.05628,2502.05628
+7,2024,The Butterfly Effect of Model Editing: Few Edits Can Trigger Large Language Models Collapse,Annual Meeting of the Association for Computational Linguistics,72,10.48550/arXiv.2402.09656,2402.09656
+8,2024,Rebuilding ROME : Resolving Model Collapse during Sequential Model Editing,Conference on Empirical Methods in Natural Language Processing,66,10.48550/arXiv.2403.07175,2403.07175
+9,2024,Learning to Edit: Aligning LLMs with Knowledge Editing,Annual Meeting of the Association for Computational Linguistics,66,10.48550/arXiv.2402.11905,2402.11905
+10,2024,WilKE: Wise-Layer Knowledge Editor for Lifelong Knowledge Editing,Annual Meeting of the Association for Computational Linguistics,57,10.48550/arXiv.2402.10987,2402.10987
+11,2024,Lifelong Knowledge Editing for LLMs with Retrieval-Augmented Continuous Prompt Learning,Conference on Empirical Methods in Natural Language Processing,52,10.48550/arXiv.2405.03279,2405.03279
+12,2025,Reinforced Lifelong Editing for Language Models,International Conference on Machine Learning,43,10.48550/arXiv.2502.05759,2502.05759
+13,2024,In-Context Editing: Learning Knowledge from Self-Induced Distributions,International Conference on Learning Representations,40,10.48550/arXiv.2406.11194,2406.11194
+14,2024,Perturbation-Restrained Sequential Model Editing,International Conference on Learning Representations,39,10.48550/arXiv.2405.16821,2405.16821
+15,2024,LLM-Based Multi-Hop Question Answering with Knowledge Graph Integration in Evolving Environments,Conference on Empirical Methods in Natural Language Processing,38,10.48550/arXiv.2408.15903,2408.15903
+16,2025,WikiBigEdit: Understanding the Limits of Lifelong Knowledge Editing in LLMs,International Conference on Machine Learning,37,,2503.05683
+17,2025,The Mirage of Model Editing: Revisiting Evaluation in the Wild,Annual Meeting of the Association for Computational Linguistics,33,10.48550/arXiv.2502.11177,2502.11177
+18,2024,Neuron-Level Sequential Editing for Large Language Models,Annual Meeting of the Association for Computational Linguistics,24,10.48550/arXiv.2410.04045,2410.04045
+19,2025,"Unlocking Efficient, Scalable, and Continual Knowledge Editing with Basis-Level Representation Fine-Tuning",International Conference on Learning Representations,24,10.48550/arXiv.2503.00306,2503.00306
+20,2024,Everything is Editable: Extend Knowledge Editing to Unstructured Data in Large Language Models,International Conference on Learning Representations,23,,2405.15349
+21,2024,Self-Updatable Large Language Models by Integrating Context into Model Parameters,International Conference on Learning Representations,21,,2410.00487
+22,2024,Lifelong Knowledge Editing for Vision Language Models with Low-Rank Mixture-of-Experts,Computer Vision and Pattern Recognition,19,10.1109/CVPR52734.2025.00883,2411.15432
+23,2024,LEMoE: Advanced Mixture of Experts Adaptor for Lifelong Model Editing of Large Language Models,Conference on Empirical Methods in Natural Language Processing,19,10.48550/arXiv.2406.20030,2406.20030
+24,2025,Bring Your Own Knowledge: A Survey of Methods for LLM Knowledge Expansion,Proceedings of the First Workshop on Large Language Model Memorization (L2M2),18,10.48550/arXiv.2502.12598,2502.12598
+25,2024,Knowledge Editing in Language Models via Adapted Direct Preference Optimization,Conference on Empirical Methods in Natural Language Processing,17,10.48550/arXiv.2406.09920,2406.09920
+26,2024,Can We Continually Edit Language Models? On the Knowledge Attenuation in Sequential Model Editing,Annual Meeting of the Association for Computational Linguistics,16,10.18653/v1/2024.findings-acl.323,
+27,2025,MEMOIR: Lifelong Model Editing with Minimal Overwrite and Informed Retention for LLMs,Neural Information Processing Systems,16,10.48550/arXiv.2506.07899,2506.07899
+28,2024,O-Edit: Orthogonal Subspace Editing for Language Model Sequential Editing,arXiv.org,14,10.48550/arXiv.2410.11469,2410.11469
+29,2024,Potential and Challenges of Model Editing for Social Debiasing,arXiv.org,14,10.48550/arXiv.2402.13462,2402.13462
+30,2025,SoK: Machine Unlearning for Large Language Models,arXiv.org,13,10.48550/arXiv.2506.09227,2506.09227
+31,2025,Lifelong Knowledge Editing requires Better Regularization,Conference on Empirical Methods in Natural Language Processing,13,10.18653/v1/2025.findings-emnlp.1234,2502.01636
+32,2024,Is Bigger Edit Batch Size Always Better? - An Empirical Study on Model Editing with Llama-3,arXiv.org,13,10.48550/arXiv.2405.00664,2405.00664
+33,2024,Knowledge in Superposition: Unveiling the Failures of Lifelong Knowledge Editing for Large Language Models,AAAI Conference on Artificial Intelligence,12,10.48550/arXiv.2408.07413,2408.07413
+34,2024,ELDER: Enhancing Lifelong Model Editing with Mixture-of-LoRA,AAAI Conference on Artificial Intelligence,12,10.1609/aaai.v39i23.34622,2408.11869
+35,2024,Consecutive Batch Model Editing with HooK Layers,Conference on Empirical Methods in Natural Language Processing,11,10.18653/v1/2024.emnlp-main.765,2403.05330
+36,2024,DAFNet: Dynamic Auxiliary Fusion for Sequential Model Editing in Large Language Models,Annual Meeting of the Association for Computational Linguistics,11,10.48550/arXiv.2405.20588,2405.20588
+37,2025,"UltraEdit: Training-, Subject-, and Memory-Free Lifelong Editing in Language Models",Trans. Mach. Learn. Res.,11,,2505.14679
+38,2024,MEMoE: Enhancing Model Editing with Mixture of Experts Adaptors,arXiv.org,10,10.48550/arXiv.2405.19086,2405.19086
+39,2025,Fine-tuning Done Right in Model Editing,arXiv.org,9,10.48550/arXiv.2509.22072,2509.22072
+40,2025,EvoEdit: Evolving Null-space Alignment for Robust and Efficient Knowledge Editing,Annual Meeting of the Association for Computational Linguistics,9,10.48550/arXiv.2510.13851,2510.13851
+41,2025,Rethinking Residual Distribution in Locate-then-Edit Model Editing,Neural Information Processing Systems,9,10.52202/085713-2624,2502.03748
+42,2025,Knowledge Decoupling via Orthogonal Projection for Lifelong Editing of Large Language Models,Annual Meeting of the Association for Computational Linguistics,8,10.18653/v1/2025.acl-long.646,
+43,2025,"Edit Less, Achieve More: Dynamic Sparse Neuron Masking for Lifelong Knowledge Editing in LLMs",Neural Information Processing Systems,8,10.48550/arXiv.2510.22139,2510.22139
+44,2025,UniErase: Unlearning Token as a Universal Erasure Primitive for Language Models,arXiv.org,7,10.48550/arXiv.2505.15674,
+45,2024,Composable Interventions for Language Models,International Conference on Learning Representations,7,10.48550/arXiv.2407.06483,2407.06483
+46,2026,MMKU-Bench: A Multimodal Update Benchmark for Diverse Visual Knowledge,arXiv.org,7,10.48550/arXiv.2603.15117,2603.15117
+47,2025,Beyond Memorization: A Rigorous Evaluation Framework for Medical Knowledge Editing,Conference of the European Chapter of the Association for Computational Linguistics,6,10.48550/arXiv.2506.03490,2506.03490
+48,2025,Hybrid-DMKG: A Hybrid Reasoning Framework over Dynamic Multimodal Knowledge Graphs for Multimodal Multihop QA with Knowledge Editing,AAAI Conference on Artificial Intelligence,5,10.48550/arXiv.2512.00881,2512.00881
+49,2026,Spectral Characterization and Mitigation of Sequential Knowledge Editing Collapse,Annual Meeting of the Association for Computational Linguistics,5,10.48550/arXiv.2601.11042,2601.11042
+50,2025,ACE: Attribution-Controlled Knowledge Editing for Multi-hop Factual Recall,arXiv.org,5,10.48550/arXiv.2510.07896,2510.07896
+51,2026,RAG or Learning? Understanding the Limits of LLM Adaptation under Continuous Knowledge Drift in the Real World,Annual Meeting of the Association for Computational Linguistics,5,10.48550/arXiv.2604.05096,2604.05096
+52,2026,Closed-Form Concept Erasure via Double Projections,arXiv.org,5,10.48550/arXiv.2604.10032,2604.10032
+53,2025,SAKE: Towards Editing Auditory Attribute Knowledge of Large Audio-Language Models,arXiv.org,5,10.48550/arXiv.2510.16917,2510.16917
+54,2025,LyapLock: Bounded Knowledge Preservation in Sequential Large Language Model Editing,Conference on Empirical Methods in Natural Language Processing,5,10.48550/arXiv.2505.15702,2505.15702
+55,2025,Towards Lifelong Model Editing via Simulating Ideal Editor,International Conference on Machine Learning,4,,
+56,2025,Catastrophic Forgetting in Kolmogorov-Arnold Networks,AAAI Conference on Artificial Intelligence,4,10.48550/arXiv.2511.12828,2511.12828
+57,2025,Constraining Sequential Model Editing with Editing Anchor Compression,North American Chapter of the Association for Computational Linguistics,4,10.48550/arXiv.2503.00035,2503.00035
+58,2025,Model Merging for Knowledge Editing,Annual Meeting of the Association for Computational Linguistics,4,10.48550/arXiv.2506.12384,2506.12384
+59,2025,Cognitive difference text classification in online knowledge collaboration based on SA-BiLSTM hybrid model,Scientific Reports,4,10.1038/s41598-025-06914-w,
+60,2024,Evaluating Complex Entity Knowledge Propagation for Knowledge Editing in LLMs,Applied Sciences,4,10.3390/app14041508,
+61,2025,On the Superimposed Noise Accumulation Problem in Sequential Knowledge Editing of Large Language Models,AAAI Conference on Artificial Intelligence,4,10.1609/aaai.v40i36.40263,2505.07899
+62,2025,MicroEdit: Neuron-level Knowledge Disentanglement and Localization in Lifelong Model Editing,Conference on Empirical Methods in Natural Language Processing,3,10.18653/v1/2025.emnlp-main.1719,
+63,2024,"GNNs Also Deserve Editing, and They Need It More Than Once",International Conference on Machine Learning,3,,
+64,2025,SeqMMR: Sequential Model Merging and LLM Routing for Enhanced Batched Sequential Knowledge Editing,Annual Meeting of the Association for Computational Linguistics,3,10.18653/v1/2025.findings-acl.870,
+65,2025,STABLE: Gated Continual Learning for Large Language Models,arXiv.org,3,10.48550/arXiv.2510.16089,2510.16089
+66,2025,EMSEdit: Efficient Multi-Step Meta-Learning-based Model Editing,The Web Conference,2,10.1145/3774904.3792357,2508.04012
+67,2026,TamEdit: Trajectory-Aware Meta-Learning for Specificity-Preserving Continual Knowledge Editing,Annual Meeting of the Association for Computational Linguistics,2,10.18653/v1/2026.acl-long.979,
+68,2025,Lifelong Sequential Knowledge Editing without Model Degradation,arXiv.org,2,10.48550/arXiv.2502.01636,
+69,2025,Retention analysis of edited knowledge after fine-tuning,,2,,2507.14198
+70,2024,Enhance Lifelong Model Editing with Continuous Data-Adapter Association,arXiv.org,2,10.48550/arXiv.2408.11869,
+71,2026,The Labyrinth and the Thread: Rethinking Regularizations in Sequential Knowledge Editing for Large Language Models,arXiv.org,2,10.48550/arXiv.2605.26670,2605.26670
+72,2026,Multiplicative Orthogonal Sequential Editing for Language Models,AAAI Conference on Artificial Intelligence,2,10.48550/arXiv.2601.07873,2601.07873
+73,2026,DSCA: Dynamic Subspace Concept Alignment for Lifelong VLM Editing,arXiv.org,2,10.48550/arXiv.2604.07965,2604.07965
+74,2025,MemEIC: A Step Toward Continual and Compositional Knowledge Editing,Neural Information Processing Systems,2,10.48550/arXiv.2510.25798,2510.25798
+75,2025,Hippocampal-like Sequential Editing for Continual Knowledge Updates in Large Language Models,Neural Information Processing Systems,2,10.52202/085713-0305,
+76,2026,TimeROME-DLM: Temporal Causal Tracing and Low-Rank Inference-Time Knowledge Editing for Masked Diffusion Language Models,arXiv.org,2,10.48550/arXiv.2606.12841,2606.12841
+77,2025,ThinkEval: Practical Evaluation of Knowledge Preservation and Consistency in LLM Editing with Thought-based Knowledge Graphs,arXiv.org,2,10.48550/arXiv.2506.01386,
+78,2025,EvoEdit: Lifelong Free-Text Knowledge Editing through Latent Perturbation Augmentation and Knowledge-driven Parameter Fusion,arXiv.org,2,10.48550/arXiv.2512.04545,2512.04545
+79,2026,SAME: Safety-Aware Model Editing Guided by Safety Transformation,Annual Meeting of the Association for Computational Linguistics,2,10.18653/v1/2026.acl-long.1632,
+80,2025,Wasserstein Distance Constraint and Parameter Sparsification for Batched and Iterative Knowledge Editing,AAAI Conference on Artificial Intelligence,2,10.1609/aaai.v39i23.34686,
+81,2024,CollabEdit: Towards Non-destructive Collaborative Knowledge Editing,International Conference on Learning Representations,2,10.48550/arXiv.2410.09508,2410.09508
+82,2026,BetaEdit: Null-Space Constrained Sequential Model Editing,Proceedings of the Thirty-Fifth International Joint Conference on Artificial Intelligence,2,10.48550/arXiv.2605.09285,2605.09285
+83,2025,Think and Recall: Layer-Level Prompting for Lifelong Model Editing,Conference on Empirical Methods in Natural Language Processing,2,10.18653/v1/2025.emnlp-main.733,
+84,2025,Understanding Robustness of Model Editing in Code LLMs: An Empirical Study,arXiv.org,2,10.48550/arXiv.2511.03182,
+85,2026,ORTCL: Towards Continual Learning of Time Series Foundation Models on Streaming Data via Orthogonal Rotation,AAAI Conference on Artificial Intelligence,1,10.1609/aaai.v40i28.39526,
+86,2024,Sequential Editing for Lifelong Training of Speech Recognition Models,Interspeech,1,10.21437/Interspeech.2024-2027,2406.17935
+87,2026,GenRecEdit: Adapting Model Editing for Generative Recommendation with Cold-Start Items,Annual International ACM SIGIR Conference on Research and Development in Information Retrieval,1,10.1145/3805712.3809662,2603.14259
+88,2026,"More Edits, More Stable: Understanding the Lifelong Normalization in Sequential Model Editing",arXiv.org,1,10.48550/arXiv.2605.11836,2605.11836
+89,2026,Beyond Hard Writes and Rigid Preservation: Soft Recursive Least-Squares for Lifelong LLM Editing,Proceedings of the Thirty-Fifth International Joint Conference on Artificial Intelligence,1,10.48550/arXiv.2601.15686,2601.15686
+90,2025,Lifelong Evolution: Collaborative Learning between Large and Small Language Models for Continuous Emergent Fake News Detection,arXiv.org,1,10.48550/arXiv.2506.04739,2506.04739
+91,2025,Energy-Regularized Sequential Model Editing on Hyperspheres,arXiv.org,1,10.48550/arXiv.2510.01172,2510.01172
+92,2026,ForgetBench: Benchmarking Forgetting Dynamics of Long-Term Parametric Memory in Language Models,arXiv.org,1,10.48550/arXiv.2607.26455,2607.26455
+93,2026,Towards Scalable Lifelong Knowledge Editing with Selective Knowledge Suppression,Annual Meeting of the Association for Computational Linguistics,1,10.48550/arXiv.2604.19089,2604.19089
+94,2026,Norm Anchors Make Model Edits Last,,1,,2602.02543
+95,2025,QueueEDIT: Structural Self-Correction for Sequential Model Editing in LLMs,Annual Meeting of the Association for Computational Linguistics,1,10.48550/arXiv.2506.17864,2506.17864
+96,2024,General LLMs as Instructors for Domain-Specific LLMs: A Sequential Fusion Method to Integrate Extraction and Editing,,1,,2403.15736
+97,2024,"""Why"" Has the Least Side Effect on Model Editing",arXiv.org,1,10.48550/arXiv.2409.18679,2409.18679
+98,2026,Modality-Decoupled Online Recursive Editing,arXiv.org,1,10.48550/arXiv.2605.20273,2605.20273
+99,2024,UniAdapt: A Universal Adapter for Knowledge Calibration,arXiv.org,1,10.48550/arXiv.2410.00454,2410.00454
+100,2026,Reversible Lifelong Model Editing via Semantic Routing-Based LoRA,arXiv.org,1,10.48550/arXiv.2603.11239,2603.11239

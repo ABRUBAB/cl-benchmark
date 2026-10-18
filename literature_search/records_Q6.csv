@@ -1,0 +1,101 @@
+rank,year,title,venue,citations,doi,arxiv
+1,2024,Expandable Subspace Ensemble for Pre-Trained Model-Based Class-Incremental Learning,Computer Vision and Pattern Recognition,187,10.1109/CVPR52733.2024.02223,2403.12030
+2,2025,SD-LoRA: Scalable Decoupled Low-Rank Adaptation for Class Incremental Learning,International Conference on Learning Representations,90,,2501.13198
+3,2025,Few-Shot Class-Incremental Learning for System-Level Fault Diagnosis of Wind Turbine,IEEE/ASME transactions on mechatronics,87,10.1109/TMECH.2024.3490733,
+4,2024,Cross-Domain Class Incremental Broad Network for Continuous Diagnosis of Rotating Machinery Faults Under Variable Operating Conditions,IEEE Transactions on Industrial Informatics,76,10.1109/TII.2023.3345449,
+5,2024,Class-Incremental Learning with CLIP: Adaptive Representation Adjustment and Parameter Fusion,European Conference on Computer Vision,74,10.48550/arXiv.2407.14143,2407.14143
+6,2024,Gradient Reweighting: Towards Imbalanced Class-Incremental Learning,Computer Vision and Pattern Recognition,72,10.1109/CVPR52733.2024.01577,2402.18528
+7,2024,DS-AL: A Dual-Stream Analytic Learning for Exemplar-Free Class-Incremental Learning,AAAI Conference on Artificial Intelligence,71,10.1609/aaai.v38i15.29670,2403.17503
+8,2024,Pre-trained Vision and Language Transformers are Few-Shot Incremental Learners,Computer Vision and Pattern Recognition,69,10.1109/CVPR52733.2024.02254,2404.02117
+9,2024,A Few-Shot Class-Incremental Learning Method for Network Intrusion Detection,IEEE Transactions on Network and Service Management,67,10.1109/TNSM.2023.3332284,
+10,2024,OrCo: Towards Better Generalization via Orthogonality and Contrast for Few-Shot Class-Incremental Learning,Computer Vision and Pattern Recognition,64,10.1109/CVPR52733.2024.02717,2403.18550
+11,2024,Divide and not forget: Ensemble of selectively trained experts in Continual Learning,International Conference on Learning Representations,60,10.48550/arXiv.2401.10191,2401.10191
+12,2024,Mind the Interference: Retaining Pre-trained Knowledge in Parameter Efficient Continual Learning of Vision-Language Models,European Conference on Computer Vision,59,10.48550/arXiv.2407.05342,2407.05342
+13,2024,FCS: Feature Calibration and Separation for Non-Exemplar Class Incremental Learning,Computer Vision and Pattern Recognition,55,10.1109/CVPR52733.2024.02692,
+14,2024,MOS: Model Surgery for Pre-Trained Model-Based Class-Incremental Learning,AAAI Conference on Artificial Intelligence,54,10.48550/arXiv.2412.09441,2412.09441
+15,2024,Learning optimal inter-class margin adaptively for few-shot class-incremental learning via neural collapse-based meta-learning,Information Processing & Management,52,10.1016/j.ipm.2024.103664,
+16,2024,Elastic Feature Consolidation for Cold Start Exemplar-free Incremental Learning,International Conference on Learning Representations,51,10.48550/arXiv.2402.03917,2402.03917
+17,2024,Class Incremental Learning with Multi-Teacher Distillation,Computer Vision and Pattern Recognition,47,10.1109/CVPR52733.2024.02687,
+18,2025,CL-LoRA: Continual Low-Rank Adaptation for Rehearsal-Free Class-Incremental Learning,Computer Vision and Pattern Recognition,44,10.1109/CVPR52734.2025.02843,2505.24816
+19,2024,A Class-Incremental Approach With Self-Training and Prototype Augmentation for Specific Emitter Identification,IEEE Transactions on Information Forensics and Security,43,10.1109/TIFS.2023.3343193,
+20,2024,eTag: Class-Incremental Learning via Embedding Distillation and Task-Oriented Generation,AAAI Conference on Artificial Intelligence,41,10.1609/aaai.v38i11.29153,
+21,2024,Few-Shot Class Incremental Learning with Attention-Aware Self-Adaptive Prompt,European Conference on Computer Vision,40,10.48550/arXiv.2403.09857,2403.09857
+22,2024,Generative Multi-modal Models are Good Class-Incremental Learners,Computer Vision and Pattern Recognition,40,10.1109/CVPR52733.2024.02712,2403.18383
+23,2024,Benchmarking Class Incremental Learning in Deep Learning Traffic Classification,IEEE Transactions on Network and Service Management,40,10.1109/TNSM.2023.3287430,
+24,2025,Task-Agnostic Guided Feature Expansion for Class-Incremental Learning,Computer Vision and Pattern Recognition,39,10.1109/CVPR52734.2025.00944,2503.00823
+25,2024,Toward Ever-Evolution Network Threats: A Hierarchical Federated Class-Incremental Learning Approach for Network Intrusion Detection in IIoT,IEEE Internet of Things Journal,38,10.1109/JIOT.2024.3408634,
+26,2025,Mixture of Noise for Pre-Trained Model-Based Class-Incremental Learning,Neural Information Processing Systems,38,10.48550/arXiv.2509.16738,2509.16738
+27,2024,Exemplar-free Continual Representation Learning via Learnable Drift Compensation,European Conference on Computer Vision,38,10.48550/arXiv.2407.08536,2407.08536
+28,2024,GACL: Exemplar-Free Generalized Analytic Continual Learning,Neural Information Processing Systems,37,,2403.15706
+29,2024,Compositional Few-Shot Class-Incremental Learning,International Conference on Machine Learning,37,10.48550/arXiv.2405.17022,2405.17022
+30,2024,DiffClass: Diffusion-Based Class Incremental Learning,European Conference on Computer Vision,37,10.48550/arXiv.2403.05016,2403.05016
+31,2026,Graph Continual Learning Network: An Incremental Intelligent Diagnosis Method of Machines for New Fault Detection,IEEE Transactions on Automation Science and Engineering,36,10.1109/TASE.2024.3417208,
+32,2024,Improved Continually Evolved Classifiers for Few-Shot Class-Incremental Learning,IEEE transactions on circuits and systems for video technology (Print),35,10.1109/TCSVT.2023.3291054,
+33,2025,Prompt-Based Concept Learning for Few-Shot Class-Incremental Learning,IEEE transactions on circuits and systems for video technology (Print),34,10.1109/TCSVT.2025.3525545,
+34,2025,MalFSCIL: A Few-Shot Class-Incremental Learning Approach for Malware Detection,IEEE Transactions on Information Forensics and Security,34,10.1109/TIFS.2024.3516565,
+35,2024,Multi-layer Rehearsal Feature Augmentation for Class-Incremental Learning,International Conference on Machine Learning,33,,
+36,2024,Pseudo-set Frequency Refinement architecture for fine-grained few-shot class-incremental learning,Pattern Recognition,33,10.1016/j.patcog.2024.110686,
+37,2024,CLOSER: Towards Better Representation Learning for Few-Shot Class-Incremental Learning,European Conference on Computer Vision,33,10.1007/978-3-031-72967-6_2,2410.05627
+38,2025,Hybrid neural networks for continual learning inspired by corticohippocampal circuits,Nature Communications,33,10.1038/s41467-025-56405-9,
+39,2024,Few-Shot Class-Incremental Learning With Adjustable Pseudo-Incremental Sessions for Bearing Fault Diagnosis,IEEE Sensors Journal,32,10.1109/JSEN.2024.3395515,
+40,2024,Replay-and-Forget-Free Graph Class-Incremental Learning: A Task Profiling and Prompting Approach,Neural Information Processing Systems,32,10.48550/arXiv.2410.10341,2410.10341
+41,2024,Novel Category Discovery Without Forgetting for Automatic Target Recognition,IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing,32,10.1109/JSTARS.2024.3358449,
+42,2025,Integrating Task-Specific and Universal Adapters for Pre-Trained Model-Based Class-Incremental Learning,IEEE International Conference on Computer Vision,31,10.1109/ICCV51701.2025.00083,2508.08165
+43,2024,Text-Enhanced Data-Free Approach for Federated Class-Incremental Learning,Computer Vision and Pattern Recognition,31,10.1109/CVPR52733.2024.02253,2403.14101
+44,2024,Class-Incremental Learning for Multi-Label Audio Classification,"IEEE International Conference on Acoustics, Speech, and Signal Processing",30,10.1109/ICASSP48485.2024.10447952,2401.04447
+45,2024,Azimuth-Aware Subspace Classifier for Few-Shot Class-Incremental SAR ATR,IEEE Transactions on Geoscience and Remote Sensing,30,10.1109/TGRS.2024.3354800,
+46,2024,Continual learning in medical image analysis: A survey,Comput. Biol. Medicine,29,10.1016/j.compbiomed.2024.109206,
+47,2024,PILoRA: Prototype Guided Incremental LoRA for Federated Class-Incremental Learning,European Conference on Computer Vision,29,10.1007/978-3-031-73650-6_9,2401.02094
+48,2025,Class-incremental learning network for real-time anomaly recognition in surveillance environments,Pattern Recognition,29,10.1016/j.patcog.2025.112064,
+49,2024,Brain-Inspired Fast- and Slow-Update Prompt Tuning for Few-Shot Class-Incremental Learning,IEEE Transactions on Neural Networks and Learning Systems,29,10.1109/TNNLS.2024.3454237,
+50,2024,MiSSNet: Memory-Inspired Semantic Segmentation Augmentation Network for Class-Incremental Learning in Remote Sensing Images,IEEE Transactions on Geoscience and Remote Sensing,29,10.1109/TGRS.2024.3360701,
+51,2024,Closed-form merging of parameter-efficient modules for Federated Continual Learning,International Conference on Learning Representations,28,10.48550/arXiv.2410.17961,2410.17961
+52,2024,Temporal-Incremental Learning for Android Malware Detection,ACM Transactions on Software Engineering and Methodology,28,10.1145/3702990,
+53,2024,FedProK: Trustworthy Federated Class-Incremental Learning via Prototypical Feature Knowledge Transfer,2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW),27,10.1109/CVPRW63382.2024.00424,2405.02685
+54,2024,Overcoming Spatial-Temporal Catastrophic Forgetting for Federated Class-Incremental Learning,ACM Multimedia,27,10.1145/3664647.3681384,
+55,2025,Exemplar-free class incremental learning for rotating machinery fault diagnosis via adaptive prototype correction and separation network,Advanced Engineering Informatics,27,10.1016/j.aei.2025.103420,
+56,2024,Adapter Merging with Centroid Prototype Mapping for Scalable Class-Incremental Learning,Computer Vision and Pattern Recognition,27,10.1109/CVPR52734.2025.00460,2412.18219
+57,2024,Analogical Learning-Based Few-Shot Class-Incremental Learning,IEEE transactions on circuits and systems for video technology (Print),27,10.1109/TCSVT.2024.3350913,
+58,2025,Mitigating Catastrophic Forgetting in Cross-Domain Fault Diagnosis: An Unsupervised Class Incremental Learning Network Approach,IEEE Transactions on Instrumentation and Measurement,26,10.1109/TIM.2024.3500047,
+59,2024,Imbalanced class incremental learning system: A task incremental diagnosis method for imbalanced industrial streaming data,Advanced Engineering Informatics,26,10.1016/j.aei.2024.102832,
+60,2024,Long-Tail Class Incremental Learning via Independent SUb-Prototype Construction,Computer Vision and Pattern Recognition,24,10.1109/CVPR52733.2024.02702,
+61,2025,External Knowledge Injection for CLIP-Based Class-Incremental Learning,IEEE International Conference on Computer Vision,24,10.1109/ICCV51701.2025.00317,2503.08510
+62,2024,Advancing Malware Detection in Network Traffic With Self-Paced Class Incremental Learning,IEEE Internet of Things Journal,23,10.1109/JIOT.2024.3376635,
+63,2024,CoLeCLIP: Open-Domain Continual Learning via Joint Task Prompt and Vocabulary Learning,IEEE Transactions on Neural Networks and Learning Systems,23,10.1109/TNNLS.2025.3547882,2403.10245
+64,2024,OVOR: OnePrompt with Virtual Outlier Regularization for Rehearsal-Free Class-Incremental Learning,International Conference on Learning Representations,23,10.48550/arXiv.2402.04129,2402.04129
+65,2024,Few-Shot Class-Incremental Learning for Network Intrusion Detection Systems,IEEE Open Journal of the Communications Society,22,10.1109/OJCOMS.2024.3481895,
+66,2024,Rethinking Few-shot Class-incremental Learning: Learning from Yourself,European Conference on Computer Vision,22,10.48550/arXiv.2407.07468,2407.07468
+67,2025,Maintaining Fairness in Logit-based Knowledge Distillation for Class-Incremental Learning,AAAI Conference on Artificial Intelligence,22,10.1609/aaai.v39i16.33842,
+68,2024,Overcoming Catastrophic Forgetting for Multi-Label Class-Incremental Learning,IEEE Workshop/Winter Conference on Applications of Computer Vision,22,10.1109/WACV57701.2024.00238,
+69,2024,A Life-long Learning Intrusion Detection System for 6G-Enabled IoV,International Conference on Wireless Communications and Mobile Computing,22,10.1109/IWCMC61514.2024.10592500,2407.15700
+70,2025,MalCL: Leveraging GAN-Based Generative Replay to Combat Catastrophic Forgetting in Malware Classification,AAAI Conference on Artificial Intelligence,22,10.48550/arXiv.2501.01110,2501.01110
+71,2024,Class-incremental Learning for Time Series: Benchmark and Evaluation,Knowledge Discovery and Data Mining,22,10.1145/3637528.3671581,2402.12035
+72,2024,DyCR: A Dynamic Clustering and Recovering Network for Few-Shot Class-Incremental Learning,IEEE Transactions on Neural Networks and Learning Systems,21,10.1109/TNNLS.2024.3394844,
+73,2024,Task-recency bias strikes back: Adapting covariances in Exemplar-Free Class Incremental Learning,Neural Information Processing Systems,21,10.48550/arXiv.2409.18265,2409.18265
+74,2024,NTK-Guided Few-Shot Class Incremental Learning,IEEE Transactions on Image Processing,21,10.1109/TIP.2024.3478854,2403.12486
+75,2024,Decoupled Self-Supervised Subspace Classifier for Few-Shot Class-Incremental SAR Target Recognition,IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing,21,10.1109/JSTARS.2024.3452756,
+76,2024,Language-Inspired Relation Transfer for Few-Shot Class-Incremental Learning,IEEE Transactions on Pattern Analysis and Machine Intelligence,20,10.1109/TPAMI.2024.3492328,2501.05862
+77,2024,MEMENTO: A novel approach for class incremental learning of encrypted traffic,Comput. Networks,20,10.1016/j.comnet.2024.110374,
+78,2026,Prototype-Based Meta-Prompt Tuning: Toward Rehearsal-Free Few-Shot Class-Incremental Learning for Multimodal Remote Sensing Image,IEEE Transactions on Image Processing,20,10.1109/TIP.2025.3650395,
+79,2024,Adaptive recognition of machining features in sheet metal parts based on a graph class-incremental learning strategy,Scientific Reports,20,10.1038/s41598-024-61443-2,
+80,2024,Class-incremental learning with causal relational replay,Expert systems with applications,19,10.1016/j.eswa.2024.123901,
+81,2024,Few-Shot Class-Incremental Learning for Retinal Disease Recognition,IEEE journal of biomedical and health informatics,19,10.1109/JBHI.2024.3457915,
+82,2024,Class Incremental Learning for Light-Weighted Networks,IEEE transactions on circuits and systems for video technology (Print),19,10.1109/TCSVT.2024.3424302,
+83,2024,Model Attention Expansion for Few-Shot Class-Incremental Learning,IEEE Transactions on Image Processing,19,10.1109/TIP.2024.3434475,
+84,2024,A dendrimer-based platform integrating surface-enhanced Raman scattering and class-incremental learning for rapidly detecting four pathogenic bacteria,Chemical Engineering Journal,19,10.1016/j.cej.2024.155987,
+85,2024,MMAL: Multi-Modal Analytic Learning for Exemplar-Free Audio-Visual Class Incremental Tasks,ACM Multimedia,19,10.1145/3664647.3681607,
+86,2025,Class-Incremental SAR Ship Detection and Classification via Context-Robust Exemplar Replay and Multigranularity Knowledge Distillation,IEEE Transactions on Aerospace and Electronic Systems,18,10.1109/TAES.2025.3550909,
+87,2024,Learning Prompt with Distribution-Based Feature Replay for Few-Shot Class-Incremental Learning,arXiv.org,18,10.48550/arXiv.2401.01598,2401.01598
+88,2024,CEAT: Continual Expansion and Absorption Transformer for Non-Exemplar Class-Incremental Learning,IEEE transactions on circuits and systems for video technology (Print),18,10.1109/TCSVT.2024.3502837,2403.06670
+89,2024,Dual-Consistency Model Inversion for Non-Exemplar Class Incremental Learning,Computer Vision and Pattern Recognition,18,10.1109/CVPR52733.2024.02268,
+90,2024,Bayesian Learning-driven Prototypical Contrastive Loss for Class-Incremental Learning,Trans. Mach. Learn. Res.,18,10.48550/arXiv.2405.11067,2405.11067
+91,2024,IOSL: Incremental Open Set Learning,IEEE transactions on circuits and systems for video technology (Print),18,10.1109/TCSVT.2023.3304838,
+92,2024,"Incremental Learning, Incremental Backdoor Threats",IEEE Transactions on Dependable and Secure Computing,18,10.1109/TDSC.2022.3201234,
+93,2024,Brain-Inspired Continual Learning: Robust Feature Distillation and Re-Consolidation for Class Incremental Learning,IEEE Access,17,10.1109/ACCESS.2024.3369488,
+94,2024,F-OAL: Forward-only Online Analytic Learning with Fast Training and Low Memory Footprint in Class Incremental Learning,Neural Information Processing Systems,17,10.52202/079017-1314,2403.15751
+95,2024,Balanced Residual Distillation Learning for 3D Point Cloud Class-Incremental Semantic Segmentation,Expert systems with applications,17,10.48550/arXiv.2408.01356,2408.01356
+96,2024,Representation Robustness and Feature Expansion for Exemplar-Free Class-Incremental Learning,IEEE transactions on circuits and systems for video technology (Print),17,10.1109/TCSVT.2023.3344574,
+97,2024,DYSON: Dynamic Feature Space Self-Organization for Online Task-Free Class Incremental Learning,Computer Vision and Pattern Recognition,17,10.1109/CVPR52733.2024.02241,
+98,2024,FSCIL-EACA: Few-Shot Class-Incremental Learning Network Based on Embedding Augmentation and Classifier Adaptation for Image Classification,Chinese journal of electronics,17,10.23919/cje.2022.00.396,
+99,2025,Knowledge Memorization and Rumination for Pre-trained Model-based Class-Incremental Learning,Computer Vision and Pattern Recognition,17,10.1109/CVPR52734.2025.01911,
+100,2024,General Federated Class-Incremental Learning With Lightweight Generative Replay,IEEE Internet of Things Journal,17,10.1109/JIOT.2024.3434600,

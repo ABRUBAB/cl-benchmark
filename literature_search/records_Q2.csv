@@ -1,0 +1,101 @@
+rank,year,title,venue,citations,doi,arxiv
+1,2024,Empowering Biomedical Discovery with AI Agents,Cell,406,10.48550/arXiv.2404.02831,2404.02831
+2,2024,Continual Learning of Large Language Models: A Comprehensive Survey,ACM Computing Surveys,366,10.1145/3735633,2404.16789
+3,2024,"Model Merging in LLMs, MLLMs, and Beyond: Methods, Theories, Applications, and Opportunities",ACM Computing Surveys,322,10.1145/3787849,2408.07666
+4,2025,From RAG to Memory: Non-Parametric Continual Learning for Large Language Models,International Conference on Machine Learning,265,10.48550/arXiv.2502.14802,2502.14802
+5,2024,"Exploring Large Language Model‐Based Intelligent Agents: Definitions, Methods, and Prospects",WIREs Data Mining and Knowledge Discovery,228,10.1002/widm.70111,2401.03428
+6,2024,Continual Learning for Large Language Models: A Survey,arXiv.org,198,10.48550/arXiv.2402.01364,2402.01364
+7,2024,Distilling System 2 into System 1,arXiv.org,178,10.48550/arXiv.2407.06023,2407.06023
+8,2025,"Advances and Challenges in Foundation Agents: From Brain-Inspired Intelligence to Evolutionary, Collaborative, and Safe Systems",arXiv.org,167,10.48550/arXiv.2504.01990,2504.01990
+9,2024,LoRA vs Full Fine-tuning: An Illusion of Equivalence,Neural Information Processing Systems,157,10.48550/arXiv.2410.21228,2410.21228
+10,2024,Mitigating Catastrophic Forgetting in Large Language Models with Self-Synthesized Rehearsal,Annual Meeting of the Association for Computational Linguistics,156,10.48550/arXiv.2403.01244,2403.01244
+11,2024,Simple and Scalable Strategies to Continually Pre-train Large Language Models,Trans. Mach. Learn. Res.,144,10.48550/arXiv.2403.08763,2403.08763
+12,2025,"A Survey of Self-Evolving Agents: What, When, How, and Where to Evolve on the Path to Artificial Super Intelligence",,142,,2507.21046
+13,2025,MemOS: A Memory OS for AI System,arXiv.org,137,10.48550/arXiv.2507.03724,2507.03724
+14,2024,Towards Lifelong Learning of Large Language Models: A Survey,ACM Computing Surveys,113,10.1145/3716629,2406.06391
+15,2024,Analyzing and Reducing Catastrophic Forgetting in Parameter Efficient Tuning,arXiv.org,94,10.48550/arXiv.2402.18865,2402.18865
+16,2024,Recent Advances of Foundation Language Models-based Continual Learning: A Survey,ACM Computing Surveys,85,10.1145/3705725,2405.18653
+17,2024,InsCL: A Data-efficient Continual Learning Paradigm for Fine-tuning Large Language Models with Instructions,North American Chapter of the Association for Computational Linguistics,83,10.48550/arXiv.2403.11435,2403.11435
+18,2025,MixLLM: Dynamic Routing in Mixed Large Language Models,North American Chapter of the Association for Computational Linguistics,71,10.48550/arXiv.2502.18482,2502.18482
+19,2024,Investigating Continual Pretraining in Large Language Models: Insights and Implications,Trans. Mach. Learn. Res.,68,10.48550/arXiv.2402.17400,2402.17400
+20,2025,Spurious Forgetting in Continual Learning of Language Models,International Conference on Learning Representations,61,10.48550/arXiv.2501.13453,2501.13453
+21,2024,SAPT: A Shared Attention Framework for Parameter-Efficient Continual Learning of Large Language Models,Annual Meeting of the Association for Computational Linguistics,58,10.18653/v1/2024.acl-long.625,2401.08295
+22,2024,Convolutional Prompting meets Language Models for Continual Learning,Computer Vision and Pattern Recognition,47,10.1109/CVPR52733.2024.02229,2403.20317
+23,2024,Interactive Continual Learning: Fast and Slow Thinking,Computer Vision and Pattern Recognition,46,10.1109/CVPR52733.2024.01224,2403.02628
+24,2024,Online DPO: Online Direct Preference Optimization with Fast-Slow Chasing,arXiv.org,45,10.48550/arXiv.2406.05534,2406.05534
+25,2025,Position: Episodic Memory is the Missing Piece for Long-Term LLM Agents,arXiv.org,44,10.48550/arXiv.2502.06975,2502.06975
+26,2024,Scalable Language Model with Generalized Continual Learning,International Conference on Learning Representations,44,10.48550/arXiv.2404.07470,2404.07470
+27,2025,CL-MoE: Enhancing Multimodal Large Language Model with Dual Momentum Mixture-of-Experts for Continual Visual Question Answering,Computer Vision and Pattern Recognition,43,10.1109/CVPR52734.2025.01826,2503.00413
+28,2025,FCLLM-DT: Enpowering Federated Continual Learning With Large Language Models for Digital-Twin-Based Industrial IoT,IEEE Internet of Things Journal,42,10.1109/JIOT.2024.3510553,
+29,2024,LLM-Assisted Multi-Teacher Continual Learning for Visual Question Answering in Robotic Surgery,IEEE International Conference on Robotics and Automation,40,10.1109/ICRA57147.2024.10610603,2402.16664
+30,2024,Perturbation-Restrained Sequential Model Editing,International Conference on Learning Representations,39,10.48550/arXiv.2405.16821,2405.16821
+31,2024,Boosting Large Language Models with Continual Learning for Aspect-based Sentiment Analysis,Conference on Empirical Methods in Natural Language Processing,37,10.48550/arXiv.2405.05496,2405.05496
+32,2026,From Storage to Experience: A Survey on the Evolution of LLM Agent Memory Mechanisms,Annual Meeting of the Association for Computational Linguistics,35,10.18653/v1/2026.findings-acl.2069,2605.06716
+33,2025,Dynamic Mixture of Curriculum LoRA Experts for Continual Multimodal Instruction Tuning,International Conference on Machine Learning,33,10.48550/arXiv.2506.11672,2506.11672
+34,2024,From Words to Molecules: A Survey of Large Language Models in Chemistry,arXiv.org,32,10.48550/arXiv.2402.01439,2402.01439
+35,2024,LLMs in the Imaginarium: Tool Learning through Simulated Trial and Error,Annual Meeting of the Association for Computational Linguistics,30,10.48550/arXiv.2403.04746,2403.04746
+36,2025,MLLM-CL: Continual Learning for Multimodal Large Language Models,arXiv.org,27,10.48550/arXiv.2506.05453,2506.05453
+37,2024,Beyond Prompts: Dynamic Conversational Benchmarking of Large Language Models,Neural Information Processing Systems,26,10.48550/arXiv.2409.20222,2409.20222
+38,2025,"A Survey of AI for Materials Science: Foundation Models, LLM Agents, Datasets, and Tools",ACM Computing Surveys,26,10.1145/3822503,2506.20743
+39,2025,LoRI: Reducing Cross-Task Interference in Multi-Task Low-Rank Adaptation,arXiv.org,26,10.48550/arXiv.2504.07448,2504.07448
+40,2025,PolySkill: Learning Generalizable Skills Through Polymorphic Abstraction,arXiv.org,26,10.48550/arXiv.2510.15863,2510.15863
+41,2025,"Large Language Model Agents for Biomedicine: A Comprehensive Review of Methods, Evaluations, Challenges, and Future Directions",Inf.,25,10.3390/info16100894,
+42,2025,Activation-Informed Merging of Large Language Models,Neural Information Processing Systems,25,10.48550/arXiv.2502.02421,2502.02421
+43,2025,ForestGPT and Beyond: A Trustworthy Domain-Specific Large Language Model Paving the Way to Forestry 5.0,Electronics,23,10.3390/electronics14183583,
+44,2024,SMoLoRa: Exploring and Defying Dual Catastrophic Forgetting in Continual Visual Instruction Tuning,IEEE International Conference on Computer Vision,23,10.1109/ICCV51701.2025.00024,2411.13949
+45,2024,Is Parameter Collision Hindering Continual Learning in LLMs?,International Conference on Computational Linguistics,22,10.48550/arXiv.2410.10179,2410.10179
+46,2025,Continual Learning for VLMs: A Survey and Taxonomy Beyond Forgetting,arXiv.org,22,10.48550/arXiv.2508.04227,2508.04227
+47,2025,Continual Learning via Sparse Memory Finetuning,arXiv.org,22,10.48550/arXiv.2510.15103,2510.15103
+48,2024,Self-Updatable Large Language Models by Integrating Context into Model Parameters,International Conference on Learning Representations,21,,2410.00487
+49,2025,Unlocking the Power of Function Vectors for Characterizing and Mitigating Catastrophic Forgetting in Continual Instruction Tuning,International Conference on Learning Representations,21,10.48550/arXiv.2502.11019,2502.11019
+50,2025,Agents of Change: Self-Evolving LLM Agents for Strategic Planning,arXiv.org,21,10.48550/arXiv.2506.04651,2506.04651
+51,2024,HFT: Half Fine-Tuning for Large Language Models,Annual Meeting of the Association for Computational Linguistics,19,10.48550/arXiv.2404.18466,2404.18466
+52,2026,In-Place Test-Time Training,arXiv.org,19,10.48550/arXiv.2604.06169,2604.06169
+53,2025,TiC-LM: A Web-Scale Benchmark for Time-Continual LLM Pretraining,Annual Meeting of the Association for Computational Linguistics,19,10.48550/arXiv.2504.02107,2504.02107
+54,2025,LLM-ACNC: Aerospace Requirement Texts Knowledge Graph Construction Utilizing Large Language Model,Aerospace,18,10.3390/aerospace12060463,
+55,2024,SEEKR: Selective Attention-Guided Knowledge Retention for Continual Learning of Large Language Models,Conference on Empirical Methods in Natural Language Processing,18,10.18653/v1/2024.emnlp-main.190,2411.06171
+56,2025,Sculpting Subspaces: Constrained Full Fine-Tuning in LLMs for Continual Learning,arXiv.org,18,10.48550/arXiv.2504.07097,2504.07097
+57,2024,Empowering Large Language Model for Continual Video Question Answering with Collaborative Prompting,Conference on Empirical Methods in Natural Language Processing,18,10.48550/arXiv.2410.00771,2410.00771
+58,2025,The Future of Continual Learning in the Era of Foundation Models: Three Key Directions,HHAI Workshops,18,10.48550/arXiv.2506.03320,2506.03320
+59,2025,Bring Your Own Knowledge: A Survey of Methods for LLM Knowledge Expansion,Proceedings of the First Workshop on Large Language Model Memorization (L2M2),18,10.48550/arXiv.2502.12598,2502.12598
+60,2025,Adaptation of Agentic AI,arXiv.org,18,10.48550/arXiv.2512.16301,2512.16301
+61,2025,An Autonomous Network Orchestration Framework Integrating Large Language Models with Continual Reinforcement Learning,IEEE Communications Magazine,17,10.1109/MCOM.001.2400526,2502.16198
+62,2024,Towards Incremental Learning in Large Language Models: A Critical Review,Expert Syst. J. Knowl. Eng.,17,10.1111/exsy.70127,2404.18311
+63,2024,AdapterSwap: Continuous Training of LLMs with Data Removal and Access-Control Guarantees,CAMLIS,17,10.48550/arXiv.2404.08417,2404.08417
+64,2025,Recurrent Knowledge Identification and Fusion for Language Model Continual Learning,Annual Meeting of the Association for Computational Linguistics,17,10.48550/arXiv.2502.17510,2502.17510
+65,2025,Continual Learning of Large Language Models,Conference on Empirical Methods in Natural Language Processing,17,10.18653/v1/2025.emnlp-tutorials.7,
+66,2025,Continual Gradient Low-Rank Projection Fine-Tuning for LLMs,Annual Meeting of the Association for Computational Linguistics,17,10.48550/arXiv.2507.02503,2507.02503
+67,2026,Just-In-Time Reinforcement Learning: Continual Learning in LLM Agents Without Gradient Updates,arXiv.org,17,10.48550/arXiv.2601.18510,2601.18510
+68,2025,Revisiting Replay and Gradient Alignment for Continual Pre-Training of Large Language Models,arXiv.org,16,10.48550/arXiv.2508.01908,2508.01908
+69,2025,TreeLoRA: Efficient Continual Learning via Layer-Wise LoRAs Guided by a Hierarchical Gradient-Similarity Tree,International Conference on Machine Learning,16,10.48550/arXiv.2506.10355,2506.10355
+70,2025,Unforgotten Safety: Preserving Safety Alignment of Large Language Models with Continual Learning,arXiv.org,16,10.48550/arXiv.2512.10150,2512.10150
+71,2025,Continual Learning for Generative AI: From LLMs to MLLMs and Beyond,,15,,2506.13045
+72,2025,On Continually Tracing Origins of LLM-Generated Text and Its Application in Detecting Cheating in Student Coursework,Big Data and Cognitive Computing,15,10.3390/bdcc9030050,
+73,2025,Gated Integration of Low-Rank Adaptation for Continual Learning of Large Language Models,Neural Information Processing Systems,15,10.52202/085713-2310,2505.15424
+74,2024,"EF-LLM: Energy Forecasting LLM with AI-assisted Automation, Enhanced Sparse Prediction, Hallucination Detection",,14,,2411.00852
+75,2025,Multi-Stage LLM Fine-Tuning with a Continual Learning Setting,North American Chapter of the Association for Computational Linguistics,14,10.18653/v1/2025.findings-naacl.303,
+76,2024,COPR: Continual Human Preference Learning via Optimal Policy Regularization,Annual Meeting of the Association for Computational Linguistics,14,10.48550/arXiv.2402.14228,2402.14228
+77,2025,Analyzing Mitigation Strategies for Catastrophic Forgetting in End-to-End Training of Spoken Language Models,Interspeech,14,10.48550/arXiv.2505.17496,2505.17496
+78,2024,Learning Attentional Mixture of LoRAs for Language Model Continual Learning,arXiv.org,14,10.48550/arXiv.2409.19611,2409.19611
+79,2025,SWE-Bench-CL: Continual Learning for Coding Agents,arXiv.org,13,10.48550/arXiv.2507.00014,2507.00014
+80,2025,"Machine learning techniques for phishing detection: A review of methods, challenges, and future directions",International Journal of Intelligent Decision Technologies,13,10.1177/18724981251366763,
+81,2024,LLMs Can Evolve Continually on Modality for X-Modal Reasoning,Neural Information Processing Systems,13,10.48550/arXiv.2410.20178,2410.20178
+82,2026,The AI Hippocampus: How Far are We From Human Memory?,arXiv.org,13,10.48550/arXiv.2601.09113,2601.09113
+83,2025,MCITlib: Multimodal Continual Instruction Tuning Library and Benchmark,arXiv.org,13,10.48550/arXiv.2508.07307,2508.07307
+84,2025,BIRDIE: Natural Language-Driven Table Discovery Using Differentiable Search Index,Proceedings of the VLDB Endowment,13,10.14778/3734839.3734845,2504.21282
+85,2024,CURLoRA: Stable LLM Continual Fine-Tuning and Catastrophic Forgetting Mitigation,arXiv.org,12,10.5281/zenodo.12730055,2408.14572
+86,2024,Controlled Low-Rank Adaptation with Subspace Regularization for Continued Training on Large Language Models,Annual Meeting of the Association for Computational Linguistics,12,10.48550/arXiv.2410.16801,2410.16801
+87,2025,"Modern Approaches to Software Vulnerability Detection: A Survey of Machine Learning, Deep Learning, and Large Language Models",Electronics,12,10.3390/electronics14224449,
+88,2026,Adaptive Collaboration with Humans: Metacognitive Policy Optimization for Multi-Agent LLMs with Continual Learning,arXiv.org,12,10.48550/arXiv.2603.07972,2603.07972
+89,2025,Merge before Forget: A Single LoRA Continual Learning via Continual Merging,arXiv.org,12,10.48550/arXiv.2512.23017,2512.23017
+90,2024,"Orbital learning: a novel, actively orchestrated decentralised learning for healthcare",Scientific Reports,12,10.1038/s41598-024-60915-9,
+91,2024,Towards LifeSpan Cognitive Systems,Trans. Mach. Learn. Res.,12,10.48550/arXiv.2409.13265,2409.13265
+92,2025,From LLM-anation to LLM-orchestrator: Coordinating Small Models for Data Labeling,arXiv.org,11,10.48550/arXiv.2506.16393,2506.16393
+93,2025,When Continue Learning Meets Multimodal Large Language Model: A Survey,arXiv.org,11,10.48550/arXiv.2503.01887,2503.01887
+94,2024,KIF: Knowledge Identification and Fusion for Language Model Continual Learning,,11,,2408.05200
+95,2026,DOPD: Dual On-policy Distillation,arXiv.org,11,10.48550/arXiv.2606.30626,2606.30626
+96,2025,Catastrophic Forgetting in LLMs: A Comparative Analysis Across Language Tasks,arXiv.org,10,10.48550/arXiv.2504.01241,2504.01241
+97,2025,Forget Forgetting: Continual Learning in a World of Abundant Memory,,10,,2502.07274
+98,2025,Domain-Adapted Large Language Models for Industrial Applications: From Fine-Tuning to Real-Time Deployment,Computer Science Bulletin,10,10.71465/csb162,
+99,2026,"Towards General Embodied Intelligence: Integrating Large Language Models, Knowledge Bases, and Reasoning Capabilities to Build the Next Generation of AI Agents",International Journal of Hydromechatronics,10,10.1504/IJHM.2026.154223,2608.19794
+100,2024,ShareLoRA: Parameter Efficient and Robust Large Language Model Fine-tuning via Shared Low-Rank Adaptation,arXiv.org,10,10.48550/arXiv.2406.10785,2406.10785

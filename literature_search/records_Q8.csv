@@ -1,0 +1,48 @@
+rank,year,title,venue,citations,doi,arxiv
+1,2024,Interactive Continual Learning: Fast and Slow Thinking,Computer Vision and Pattern Recognition,46,10.1109/CVPR52733.2024.01224,2403.02628
+2,2025,Bisecle: Binding and Separation in Continual Learning for Video Language Understanding,Neural Information Processing Systems,14,10.48550/arXiv.2507.00469,2507.00469
+3,2026,The AI Hippocampus: How Far are We From Human Memory?,arXiv.org,13,10.48550/arXiv.2601.09113,2601.09113
+4,2024,NICE: Neurogenesis Inspired Contextual Encoding for Replay-free Class Incremental Learning,Computer Vision and Pattern Recognition,11,10.1109/CVPR52733.2024.02233,
+5,2024,SynapNet: A Complementary Learning System Inspired Algorithm With Real-Time Application in Multimodal Perception,IEEE Transactions on Neural Networks and Learning Systems,10,10.1109/TNNLS.2024.3446171,
+6,2025,Weight Factorization and Centralization for Continual Learning in Speech Recognition,Interspeech,8,10.48550/arXiv.2506.16574,2506.16574
+7,2025,Personalizing brain stimulation: continual learning for sleep spindle detection,Journal of Neural Engineering,5,10.1088/1741-2552/adebb1,
+8,2024,Wake-Sleep Energy Based Models for Continual Learning,2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW),4,10.1109/CVPRW63382.2024.00415,
+9,2025,Information-Theoretic Dual Memory System for Continual Learning,Knowledge-Based Systems,4,10.48550/arXiv.2501.07382,2501.07382
+10,2025,Online Continual Learning via Spiking Neural Networks with Sleep Enhanced Latent Replay,International Conference on Intelligent Control and Information Processing,4,10.1109/ICICIP67436.2026.11417642,2507.02901
+11,2025,Self-Supervised Continual Graph Learning via Adaptive Spaced Replay on Node Proxies,Knowledge Discovery and Data Mining,3,10.1145/3711896.3737121,
+12,2024,Distribution-Aware Replay for Continual MRI Segmentation,AIPAD/PILM@MICCAI,3,10.48550/arXiv.2407.21216,2407.21216
+13,2026,Language Models Need Sleep: Learning to Self-Modify and Consolidate Memories,arXiv.org,3,10.48550/arXiv.2606.03979,2606.03979
+14,2025,Interleaved Replay of Novel and Familiar Memory Traces During Slow-Wave Sleep Prevents Catastrophic Forgetting,bioRxiv,3,10.1101/2025.06.25.661579,
+15,2024,PhiNets: Brain-inspired Non-contrastive Learning Based on Temporal Prediction Hypothesis,International Conference on Learning Representations,2,10.48550/arXiv.2405.14650,2405.14650
+16,2024,NCAdapt: Dynamic Adaptation with Domain-Specific Neural Cellular Automata for Continual Hippocampus Segmentation,IEEE Workshop/Winter Conference on Applications of Computer Vision,2,10.1109/WACV61041.2025.00377,2410.23368
+17,2024,Unsupervised Replay Strategies for Continual Learning with Limited Data,IEEE International Joint Conference on Neural Network,2,10.1109/IJCNN60899.2024.10650116,2410.16154
+18,2024,A Novel Sleep Mechanism Inspired Continual Learning Algorithm,"Guidance, Navigation and Control",2,10.1142/s2737480724410036,
+19,2026,Not Just After One: Sleep-Inspired Replay Prevents Catastrophic Forgetting After Sequential Tasks,arXiv.org,2,10.48550/arXiv.2606.08447,2606.08447
+20,2026,Principled Fast and Meta Knowledge Learners for Continual Reinforcement Learning,arXiv.org,1,10.48550/arXiv.2603.00903,2603.00903
+21,2026,The Stream of Computation: Temporal Continuity as a Missing Ingredient for Artificial Consciousness,Journal of Consciousness Studies,1,10.53765/20512201.33.7.035,
+22,2025,A Neural Network Model of Complementary Learning Systems: Pattern Separation and Completion for Continual Learning,Annual Meeting of the Cognitive Science Society,1,10.48550/arXiv.2507.11393,2507.11393
+23,2024,Patch-Based Contrastive Learning and Memory Consolidation for Online Unsupervised Continual Learning,CoLLAs,1,10.48550/arXiv.2409.16391,2409.16391
+24,2026,Neural representations supporting generalization under continual learning,bioRxiv,0,10.64898/2026.01.07.698044,
+25,2026,"Sleep as a system-level resilience mechanism in complex dynamic networks:
+ Insights from biological and artificial systems",Brain Medicine,0,10.61373/bm026p.0045,
+26,2025,Developing Evolving Adaptability in Biological Intelligence: A Novel Biologically-Inspired Continual Learning Model for Video Saliency Prediction,IEEE Transactions on Pattern Analysis and Machine Intelligence,0,10.1109/TPAMI.2025.3643517,
+27,2026,The Troubleshooter That Never Sleeps: Continually Learning Agentic AI for Fault Debugging in IEC Continuum,IEEE Internet Computing,0,10.1109/MIC.2026.3662039,
+28,2026,Replay in the Silent Degrees of Freedom: Continual Learning Without an Offline Phase,,0,,2609.31630
+29,2026,TTMC: Brain-Inspired Test-Time Memory Calibration with Orthogonal Projection for Online Continual Learning,Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining V.2,0,10.1145/3770855.3818072,
+30,2026,SegReg: Latent Space Regularization for Improved Medical Image Segmentation,arXiv.org,0,10.48550/arXiv.2602.23509,2602.23509
+31,2026,Implementation and Analysis of a Low-Power Heart Rate Prediction Solution Using Hardware Acceleration on the ESP32-S3 Microcontroller,Anais do LIII Seminário Integrado de Software e Hardware (SEMISH 2026),0,10.5753/semish.2026.21854,
+32,2025,Semi-parametric Memory Consolidation: Towards Brain-like Deep Continual Learning,arXiv.org,0,10.48550/arXiv.2504.14727,2504.14727
+33,2025,A Real-Time Cognitive Reasoning Architecture for Continual Learning and Decision Making in Autonomous Multi-Agent Systems,Proceedings of the 1st International Conference on Intelligent Methods and Advanced Computer Scientific Innovations,0,10.5220/0014201400004932,
+34,2025,Dream-Augmented Neural Networks: Harnessing Synthetic Sleep for Continual Learning and Zero Forgetting,Social Science Research Network,0,10.2139/ssrn.5402490,
+35,2026,"Active perception and disentangled representations allow continual, episodic zero and few-shot learning",arXiv.org,0,10.48550/arXiv.2602.19355,2602.19355
+36,2026,In Two Minds about Lifelong Learning: Exploring Hemispheric Redundancy and Specialisation in Neural Models,,0,,2608.19514
+37,2026,METACOGNITIVE REGIME-SWITCHED SPIKING NEURAL NETWORK WITH CONTRASTIVE MEMORY CONSOLIDATION,Tạp chí Khoa học Đại học Công Thương,0,10.62985/j.huit_ojs.vol26.no2e.423,
+38,2025,Complementary Learning System Empowers Online Continual Learning of Vehicle Motion Forecasting in Smart Cities,arXiv.org,0,10.48550/arXiv.2508.19597,2508.19597
+39,2025,Transfer learning approach for sleep stage classification with limited training data,International Journal of Science and Research Archive,0,10.30574/ijsra.2025.15.2.1506,
+40,2026,The write-cost bottleneck: energy constraints on continual learning in brains and machines,Cognitive Neurodynamics,0,10.1007/s11571-026-10508-1,
+41,2026,Metaplasticity as adaptive gradient preconditioning for incremental learning,,0,,2608.14634
+42,2025,When to Learn and When to Stop: Quitting at the Optimal Time (Student Abstract),AAAI Conference on Artificial Intelligence,0,10.1609/aaai.v39i28.35309,
+43,2026,Dream2Learn: Structured Generative Dreaming for Continual Learning,International Journal of Computer Vision,0,10.1007/s11263-026-02958-1,2603.01935
+44,2026,Prototype-Enhanced Experience Replay for Domain Incremental Sleep Stage Classification,IEEE Transactions on Medical Robotics and Bionics,0,10.1109/TMRB.2026.3699224,
+45,2025,Continual Learning Method for Multi-Functional Radar Working Modes Recognition via CILCER-PDW,"International Conference on Signal Processing, Communications and Computing",0,10.1109/ICSPCC66825.2025.11194399,
+46,2026,Prototype Replay for Cold-Start Online Class-Incremental Learning in Spiking Networks,International Conference on Systems,0,10.1145/3822454.3822491,

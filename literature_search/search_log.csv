@@ -1,0 +1,9 @@
+id,query,years,accessed,hits
+Q1,"""catastrophic forgetting"" + ""continual learning""",2024-2026,2026-10-10,1740
+Q2,"""continual learning"" + (""large language model"" | ""large language models"")",2024-2026,2026-10-10,413
+Q3,"""continual learning"" + (""vision-language"" | ""foundation model"" | ""pre-trained model"")",2024-2026,2026-10-10,446
+Q4,"""continual learning"" + (""spiking neural network"" | ""spiking neural networks"" | neuromorphic)",2024-2026,2026-10-10,79
+Q5,"(metaplasticity | neuromodulation | ""homeostatic plasticity"" | neurogenesis) + forgetting",2024-2026,2026-10-10,41
+Q6,"""class-incremental learning""",2024-2026,2026-10-10,1171
+Q7,"(""knowledge editing"" | ""model editing"") + (lifelong | sequential | continual)",2024-2026,2026-10-10,137
+Q8,"""continual learning"" + (hippocampus | sleep | ""complementary learning systems"")",2024-2026,2026-10-10,46

@@ -1,0 +1,85 @@
+{
+ "config": {
+  "arch": "mlp",
+  "hidden": [
+   400,
+   400
+  ],
+  "iters": 2000,
+  "batch_size": 128,
+  "lr": 0.001,
+  "buffer_size": 500,
+  "n_fisher": 1000,
+  "z_dim": 32,
+  "vae_hidden": 400,
+  "benchmark": "splitmnist",
+  "scenario": "task",
+  "method": "joint",
+  "seed": 1,
+  "eval_split": "test"
+ },
+ "metrics": {
+  "ACC": 0.9975949952222273
+ },
+ "R": [
+  [
+   NaN,
+   NaN,
+   NaN,
+   NaN,
+   NaN
+  ],
+  [
+   NaN,
+   NaN,
+   NaN,
+   NaN,
+   NaN
+  ],
+  [
+   NaN,
+   NaN,
+   NaN,
+   NaN,
+   NaN
+  ],
+  [
+   NaN,
+   NaN,
+   NaN,
+   NaN,
+   NaN
+  ],
+  [
+   0.9995271867612293,
+   0.9965719882468168,
+   0.9989327641408752,
+   0.9979859013091642,
+   0.9949571356530509
+  ]
+ ],
+ "b": [
+  0.5356973995271868,
+  0.5357492654260528,
+  0.4759871931696905,
+  0.5231621349446123,
+  0.502773575390822
+ ],
+ "time_per_task_s": [
+  45.61356206900018
+ ],
+ "train_time_s": 45.61356206900018,
+ "peak_gpu_mem_mb": 88.64892578125,
+ "extra_state_mb": 0.0,
+ "n_params": 478410,
+ "flags": {
+  "needs_task_id": false,
+  "needs_boundaries": false,
+  "stores_data": false
+ },
+ "env": {
+  "torch": "2.11.0+cu128",
+  "device": "Tesla T4",
+  "python": "3.13.15"
+ }
+}

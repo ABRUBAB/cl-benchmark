@@ -1,0 +1,11 @@
+.venv/
+data/
+__pycache__/
+*.pyc
+kaggle/build/
+kaggle/out/
+results/locks/
+results/failed/
+results/logs/
+results/manual/
+*.tmp

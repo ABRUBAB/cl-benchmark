@@ -1,0 +1,80 @@
+rank,year,title,venue,citations,doi,arxiv
+1,2024,Efficient Spiking Neural Networks with Sparse Selective Activation for Continual Learning,AAAI Conference on Artificial Intelligence,51,10.1609/aaai.v38i1.27817,
+2,2024,Photonic neuromorphic architecture for tens-of-task lifelong learning,Light: Science & Applications,35,10.1038/s41377-024-01395-4,
+3,2025,Hybrid neural networks for continual learning inspired by corticohippocampal circuits,Nature Communications,33,10.1038/s41467-025-56405-9,
+4,2024,Adaptive Synaptic Scaling in Spiking Networks for Continual Learning and Enhanced Robustness,IEEE Transactions on Neural Networks and Learning Systems,27,10.1109/TNNLS.2024.3373599,
+5,2024,Hebbian Learning based Orthogonal Projection for Continual Learning of Spiking Neural Networks,International Conference on Learning Representations,21,10.48550/arXiv.2402.11984,2402.11984
+6,2024,Continual Learning for Autonomous Robots: A Prototype-based Approach,IEEE/RJS International Conference on Intelligent RObots and Systems,14,10.1109/IROS58592.2024.10802683,2404.00418
+7,2024,A Rapid Adapting and Continual Learning Spiking Neural Network Path Planning Algorithm for Mobile Robots,IEEE Robotics and Automation Letters,13,10.1109/LRA.2024.3457371,2404.15524
+8,2024,"Continual Learning With Neuromorphic Computing: Foundations, Methods, and Emerging Applications",IEEE Access,13,10.1109/ACCESS.2025.3588665,2410.09218
+9,2024,TACOS: Task Agnostic Continual Learning in Spiking Neural Networks,arXiv.org,13,10.48550/arXiv.2409.00021,2409.00021
+10,2024,Adaptive Deep Learning Architectures for Real-Time Data Streams in Edge Computing Environments,Qubahan Techno Journal,12,10.48161/qtj.v3n2a25,
+11,2024,Active Dendrites Enable Efficient Continual Learning in Time-To-First-Spike Neural Networks,International Conference on Artificial Intelligence Circuits and Systems,12,10.1109/AICAS59952.2024.10595872,2404.19419
+12,2025,"Edge Artificial Intelligence: A Systematic Review of Evolution, Taxonomic Frameworks, and Future Horizons",arXiv.org,11,10.48550/arXiv.2510.01439,2510.01439
+13,2024,"Continual Learning with Neuromorphic Computing: Theories, Methods, and Applications",arXiv.org,8,10.48550/arXiv.2410.09218,
+14,2024,Continual learning with hebbian plasticity in sparse and predictive coding networks: a survey and perspective,Neuromorph. Comput. Eng.,6,10.1088/2634-4386/ada08b,2407.17305
+15,2024,Similarity-based context aware continual learning for spiking neural networks,Neural Networks,6,10.1016/j.neunet.2024.107037,2411.05802
+16,2025,Continual Learning with Columnar Spiking Neural Networks,Optical Memory and Neural Networks,6,10.3103/S1060992X25601629,2506.17169
+17,2025,Replay4NCL: An Efficient Memory Replay-based Methodology for Neuromorphic Continual Learning in Embedded AI Systems,Design Automation Conference,5,10.1109/DAC63849.2025.11132839,2503.17061
+18,2024,ALADE-SNN: Adaptive Logit Alignment in Dynamically Expandable Spiking Neural Networks for Class Incremental Learning,arXiv.org,5,10.48550/arXiv.2412.12696,2412.12696
+19,2025,Enabling Green Wireless Communications with Neuromorphic Continual Learning,,5,,2502.17168
+20,2025,SPICED: A Synaptic Homeostasis-Inspired Framework for Unsupervised Continual EEG Decoding,Neural Information Processing Systems,5,10.48550/arXiv.2509.17439,2509.17439
+21,2024,Compressed Latent Replays for Lightweight Continual Learning on Spiking Neural Networks,IEEE Computer Society Annual Symposium on VLSI,5,10.1109/ISVLSI61997.2024.00052,2407.03111
+22,2025,"Neuromorphic Computing for Embodied Intelligence in Autonomous Systems: Current Trends, Challenges, and Future Directions",IEEE International Symposium on On-Line Testing and Robust System Design,4,10.1109/IOLTS65288.2025.11116950,2507.18139
+23,2026,Intrinsic gradient oxygen-driven second-order memristors for continual reinforcement learning,Nature Communications,4,10.1038/s41467-026-70014-0,
+24,2024,Neuromorphic Solutions for Sensor Fusion and Continual Learning Systems,,4,10.1007/978-3-031-63565-6,
+25,2024,Probabilistic Spiking Neural Network for Robotic Tactile Continual Learning,IEEE International Conference on Robotics and Automation,4,10.1109/ICRA57147.2024.10610553,
+26,2025,Online Continual Learning via Spiking Neural Networks with Sleep Enhanced Latent Replay,International Conference on Intelligent Control and Information Processing,4,10.1109/ICICIP67436.2026.11417642,2507.02901
+27,2025,Neuromorphic Cybersecurity with Semi-supervised Lifelong Learning,International Conference on Systems,3,10.1109/ICONS69015.2025.00043,2508.04610
+28,2025,Online Continual Learning on Intel Loihi 2 via a Co-designed Spiking Neural Network,,2,,2511.01553
+29,2026,Astrocyte-gated multi-timescale plasticity for online continual learning in deep spiking neural networks,Frontiers in Neuroscience,2,10.3389/fnins.2025.1768235,
+30,2025,Controlling ReRAM’s Switching Characteristics with Shadow Memory for Continual Learning,International Memory Workshop,2,10.1109/IMW61990.2025.11026884,
+31,2024,Maelstrom Networks,arXiv.org,2,10.48550/arXiv.2408.16632,2408.16632
+32,2025,Incorporating brain-inspired mechanisms for multimodal learning in artificial intelligence,Science Advances,2,10.1126/sciadv.ady8751,2505.10176
+33,2024,Augmenting learning in neuro-embodied systems through neurobiological first principles,,2,,2407.04525
+34,2025,A Quantitative Analysis of Catastrophic Forgetting in Quantized Spiking Neural Networks,International Symposium on Circuits and Systems,2,10.1109/ISCAS56072.2025.11043413,
+35,2025,VIBE: Enhancing Unsupervised Continual Learning with Autonomous Novelty Detection,Neuro Inspired Computational Elements Workshop,1,10.1109/NICE65350.2025.11065777,
+36,2026,CATFormer: When Continual Learning Meets Spiking Transformers With Dynamic Thresholds,arXiv.org,1,10.48550/arXiv.2603.15184,2603.15184
+37,2026,"CogniSNN: Enabling neuron-expandability, pathway-reusability, and dynamic-configurability in spiking neural networks",Neural Networks,1,10.1016/j.neunet.2026.109071,
+38,2026,Neuromorphic Continual Learning for Sequential Deployment of Nuclear Plant Monitoring Systems,arXiv.org,1,10.48550/arXiv.2604.18611,2604.18611
+39,2026,HLML-SNN：Fast Continual Learning in Spiking Neural Networks Achieved via Hebbian Learning-Driven Meta-Learning,AAAI Conference on Artificial Intelligence,1,10.1609/aaai.v40i32.39942,
+40,2025,CogniSNN: A First Exploration to Random Graph Architecture based Spiking Neural Networks with Enhanced Expandability and Neuroplasticity,arXiv.org,1,10.48550/arXiv.2505.05992,
+41,2025,ALADE-SNN: Adaptive Logit Alignment in Dynamically Expandable Spiking Neural Networks for Class Incremental Learning,AAAI Conference on Artificial Intelligence,1,10.1609/aaai.v39i18.34171,
+42,2026,Reconfigurable Selector‐Only Memory (SOM) for Scalable Neuromorphic Computing,Advancement of science,1,10.1002/advs.75989,
+43,2026,CLANE: Continual Learning of Actions on Neuromorphic Hardware from Event Cameras,arXiv.org,1,10.48550/arXiv.2605.28387,2605.28387
+44,2026,Intrinsic-Noise Consolidation: A Doob-Barrier-Conditioned Diffusion Turns Analog Device Noise into a Continual-Learning Resource,arXiv.org,1,10.48550/arXiv.2607.06924,2607.06924
+45,2026,"A 65-nm Privacy-Preserving Neuromorphic Encoder With 7.13-nJ Efficiency, 2.38-Mb/mm^2 Item-Memory Density, and Federated Learning Support",arXiv.org,0,10.48550/arXiv.2606.09460,2606.09460
+46,2026,Bio-Mimetic Neuron–Synapse Co-Design in Mixed-Signal VLSI for On-Chip Continual Learning,2026 International Conference on Electronics and Renewable Systems (ICEARS),0,10.1109/ICEARS67481.2026.11416560,
+47,2026,Gradient-Free Continual Learning in Spiking Neural Networks via Inter-Spike Interval Regularization,arXiv.org,0,10.48550/arXiv.2604.16496,2604.16496
+48,2026,Neuro-Memristive Hypernetworks for Self-Evolving Artificial Intelligence: A Hardware-Algorithm Co-Evolution Paradigm,2026 6th International Conference on Recent Trends in Computer Science and Technology (ICRTCST),0,10.1109/ICRTCST68392.2026.11545239,
+49,2024,Emulating Complex Synapses Using Interlinked Proton Conductors,Physical Review Applied,0,10.48550/arXiv.2401.15045,2401.15045
+50,2026,Rank-Order N-of-M Codes for Sparse Distributed Memory: Disentangling Representation and Learning Effects in Noise Robustness Against Contemporary Neuromorphic Architectures,arXiv.org,0,10.48550/arXiv.2607.02967,2607.02967
+51,2026,Resistive Memory based Efficient Machine Unlearning and Continual Learning,arXiv.org,0,10.48550/arXiv.2601.10037,
+52,2026,Context-Aware Evidence-Gated Plasticity for Multi-Goal Learning in Spiking Neural Networks,bioRxiv,0,10.64898/2026.06.25.734613,
+53,2026,SD2-SNN: Self-distillation and structural decomposition framework for SNNs in continual learning,Neural Networks,0,10.1016/j.neunet.2026.109241,
+54,2026,Dynamic Elastic Weight Consolidation for Continual Learning in Spiking Neural Networks,"Knowledge Science, Engineering and Management",0,10.1007/978-981-92-2856-0_46,
+55,2026,"Few-shot, continual learning for spiking neuromorphic olfaction",Neuromorphic Computing and Engineering,0,10.1088/2634-4386/ae9177,
+56,2026,NeuroPulse: Spiking-Transformer Hybrid Architecture for Ultra-Low-Power Continual Learning in Neuromorphic Network Processors,"Computers, Materials &amp; Continua",0,10.32604/cmc.2026.082979,
+57,2025,Local Timescale Gates for Timescale-Robust Continual Spiking Neural Networks,arXiv.org,0,10.48550/arXiv.2510.12843,2510.12843
+58,2026,Biologically inspired memristive neuron capable of on-chip learning,Neuromorphic Computing and Engineering,0,10.1088/2634-4386/ae9640,
+59,2026,Spiking Neural Networks with Continual Learning for Steering Angle Regression: A Sustainable AI Perspective,Italian National Conference on Sensors,0,10.3390/s26092656,
+60,2025,Genesis: A Spiking Neuromorphic Accelerator With On-chip Continual Learning,arXiv.org,0,10.48550/arXiv.2509.05858,2509.05858
+61,2026,Artificial intelligence-driven resource management in edge-cloud computing continuum for internet of things applications: new trends and future directions,Frontiers in The Internet of Things,0,10.3389/friot.2026.1883673,
+62,2026,PS-SNN: pattern separation learning for expandable spiking neural networks in class-incremental learning,Scientific Reports,0,10.1038/s41598-026-42970-6,
+63,2025,Predictive Coding-based Deep Neural Network Fine-tuning for Computationally Efficient Domain Adaptation,International Workshop on Affective Interactions,0,10.48550/arXiv.2509.20269,2509.20269
+64,2026,Context-Aware Evidence-Gated Plasticity for Multi-Goal Learning in Spiking Neural Networks,Research Square,0,10.21203/rs.3.rs-10157488/v1,
+65,2025,OCCA-SNN: Online Class-Center Anchoring with Alignment for Spiking Neural Networks in Class-Incremental Learning,International Conference on Communications and Information Technology,0,10.1109/ICCIT68389.2025.11453443,
+66,2026,GRSNN: A Flexible Graph-Wired Spiking Neural Network for Neuromorphic Classification and Continual Learning,International Conference on Intelligent Computing,0,10.1007/978-981-92-3410-3_1,
+67,2026,Face Recognition Using Machine Learning Algorithms,"2026 International Conference on Intelligent and Innovative Technologies in Computing, Electrical and Electronics (IITCEE)",0,10.1109/IITCEE67948.2026.11394390,
+68,2026,METACOGNITIVE REGIME-SWITCHED SPIKING NEURAL NETWORK WITH CONTRASTIVE MEMORY CONSOLIDATION,Tạp chí Khoa học Đại học Công Thương,0,10.62985/j.huit_ojs.vol26.no2e.423,
+69,2026,"Spiking Neural Networks for Log-Based Anomaly Detection: A Survey, Taxonomy, and Roadmap on Energy-Efficient Neuromorphic Log Analysis",IEEE Access,0,10.1109/ACCESS.2026.3707431,
+70,2026,Leveraging a Passive MRAM Crossbar for Hardware-in-the-Loop and Continual learning,IEEE Journal on Exploratory Solid-State Computational Devices and Circuits,0,10.1109/JXCDC.2026.3702001,
+71,2026,Orthogonal Weight Modification Enhances Learning Scalability and Convergence Efficiency without Gradient Backpropagation,"IEEE International Conference on Acoustics, Speech, and Signal Processing",0,10.48550/arXiv.2602.22259,2602.22259
+72,2026,Memristive nano-neuromorphic spiking neural network with self-adaptive continual and predictive learning for edge gesture recognition,Scientific Reports,0,10.1038/s41598-026-52643-z,
+73,2025,When to Learn and When to Stop: Quitting at the Optimal Time (Student Abstract),AAAI Conference on Artificial Intelligence,0,10.1609/aaai.v39i28.35309,
+74,2024,Investigating Plausibility of Biologically Inspired Bayesian Learning in ANNs,arXiv.org,0,10.48550/arXiv.2411.18788,2411.18788
+75,2024,An Intrinsically Knowledge-Transferring Developmental Spiking Neural Network for Tactile Classification,IEEE Transactions on Neural Networks and Learning Systems,0,10.1109/TNNLS.2025.3623703,2410.00745
+76,2026,Energy-aware spike budgeting for continual learning in spiking neural networks for neuromorphic vision,Neuromorphic Computing and Engineering,0,10.1088/2634-4386/ae8627,2602.12236
+77,2025,Constructing AI-Driven Microprocessors for Smart Devices: Integrating On-Chip Intelligence to Boost Cutting-Edge Decision-Making Performance,"International Conference on Computing, Communication and Automation",0,10.1109/ICCCA66364.2025.11325436,
+78,2026,Neuromorphic Federated Continual Learning: A Spiking Neural Network Approach,International Conference on Wireless Communications and Mobile Computing,0,10.1109/IWCMC69287.2026.11579829,
+79,2026,Enhancing Sequential Learning with a Hybrid EWC- Integrated Spiking Neural Network,Journal of Engineering Research and Reports,0,10.9734/jerr/2026/v28i61935,

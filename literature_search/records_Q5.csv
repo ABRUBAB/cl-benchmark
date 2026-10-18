@@ -1,0 +1,42 @@
+rank,year,title,venue,citations,doi,arxiv
+1,2025,Electrochemical ohmic memristors for continual learning,Nature Communications,41,10.1038/s41467-025-57543-w,
+2,2024,Neurogenesis-dependent remodeling of hippocampal circuits reduces PTSD-like behaviors in adult mice,Molecular Psychiatry,23,10.1038/s41380-024-02585-7,
+3,2025,Bayesian continual learning and forgetting in neural networks,Nature Communications,22,10.1038/s41467-025-64601-w,2504.13569
+4,2024,Hebbian Learning based Orthogonal Projection for Continual Learning of Spiking Neural Networks,International Conference on Learning Representations,21,10.48550/arXiv.2402.11984,2402.11984
+5,2024,Metaplasticity‐Enabled Graphene Quantum Dot Devices for Mitigating Catastrophic Forgetting in Artificial Neural Networks,Advances in Materials,16,10.1002/adma.202411237,
+6,2024,Azithromycin preserves adult hippocampal neurogenesis and behavior in a mouse model of sepsis,"Brain, behavior, and immunity",15,10.1016/j.bbi.2024.01.005,
+7,2024,Continual Learning for Autonomous Robots: A Prototype-based Approach,IEEE/RJS International Conference on Intelligent RObots and Systems,14,10.1109/IROS58592.2024.10802683,2404.00418
+8,2025,Improving the adaptive and continuous learning capabilities of artificial neural networks: Lessons from multi-neuromodulatory dynamics,arXiv.org,11,10.48550/arXiv.2501.06762,2501.06762
+9,2025,Neuromimetic metaplasticity for adaptive continual learning without catastrophic forgetting,Neural Networks,7,10.1016/j.neunet.2025.107762,
+10,2025,Memory processing by hippocampal adult-born neurons,Neurobiology of Learning and Memory,7,10.1016/j.nlm.2025.108062,
+11,2024,Probabilistic metaplasticity for continual learning with memristors in spiking networks,Scientific Reports,7,10.1038/s41598-024-78290-w,2403.08718
+12,2026,The human amygdala in threat learning and extinction,Science Advances,6,10.1126/sciadv.aea8233,
+13,2024,Self-Regulated Neurogenesis for Online Data-Incremental Learning,,5,,2403.14684
+14,2025,Hippocampal CA2 to CA1: A metaplastic switch for memory encoding,Proceedings of the National Academy of Sciences of the United States of America,4,10.1073/pnas.2505936122,
+15,2025,Growable and interpretable neural control with online continual learning for autonomous lifelong locomotion learning machines,Int. J. Robotics Res.,4,10.1177/02783649251336385,2505.12029
+16,2026,NI-SSCL: A Neuroplasticity-Inspired Method for Semisupervised Continual Learning,IEEE Transactions on Cognitive and Developmental Systems,4,10.1109/TCDS.2025.3601860,
+17,2024,Neuromimetic metaplasticity for adaptive continual learning,arXiv.org,3,10.48550/arXiv.2407.07133,2407.07133
+18,2024,Adult Neurogenesis Reconciles Flexibility and Stability of Olfactory Perceptual Memory,bioRxiv,3,10.1101/2024.03.03.583153,
+19,2026,"Learning to Remember, Learn, and Forget in Attention-Based Models",arXiv.org,2,10.48550/arXiv.2602.09075,2602.09075
+20,2025,Stochastic Engrams for Efficient Continual Learning with Binarized Neural Networks,arXiv.org,2,10.48550/arXiv.2503.21436,2503.21436
+21,2025,Accelerated long-term forgetting across neuropsychiatric disorders: A review of mechanisms and a neurobiological perspective of forgetting.,Neuroscience and Biobehavioral Reviews,2,10.1016/j.neubiorev.2025.106461,
+22,2024,Forgotten Tides: A Novel Strategy for Bayesian Optimization of Neurostimulation,Epilepsy Currents,1,10.1177/15357597241254274,
+23,2025,"Sleep, Neuromodulation, and Avoiding Forgetting",Procedia Computer Science,1,10.1016/j.procs.2025.10.178,
+24,2026,Amorphous LiNbO3 memristors for nonvolatile memory and neuromorphic computing with metaplasticity-enabled learning,Neuromorphic Computing and Engineering,1,10.1088/2634-4386/ae6f47,
+25,2025,Metaplasticity‐Enabled Graphene Quantum Dot Devices for Mitigating Catastrophic Forgetting in Artificial Neural Networks (Adv. Mater. 6/2025),Advances in Materials,1,10.1002/adma.202570051,
+26,2025,Metaplastic priming enables non-ionotropic NMDA receptor-mediated synaptic depotentiation in the hippocampus,bioRxiv,1,10.1101/2025.02.28.640846,
+27,2025,Enrichment-induced forgetting is associated with white matter microstructure in mice.,Behavioural Brain Research,1,10.1016/j.bbr.2025.115878,
+28,2024,Metaplastic-EEG: Continuous Training on Brain-Signals,medRxiv,1,10.1101/2024.05.29.24308178,
+29,2026,Adaptive recognition network for few-shot plant diseases and pests based on homeostatic neuromodulation and meta-plasticity,Frontiers in Plant Science,0,10.3389/fpls.2026.1796835,
+30,2025,Adult neurogenesis reconciles flexibility and stability of olfactory perceptual memory,eLife,0,10.7554/eLife.104443,
+31,2026,The science of memory: A comprehensive analysis of declarative and non‑declarative memory mechanisms and updates (Review),World Academy of Sciences Journal,0,10.3892/wasj.2026.455,
+32,2026,Active Continual Learning with Metaplastic Binary Bayesian Neural Networks,arXiv.org,0,10.48550/arXiv.2605.30198,2605.30198
+33,2025,Genesis: A Spiking Neuromorphic Accelerator With On-chip Continual Learning,arXiv.org,0,10.48550/arXiv.2509.05858,2509.05858
+34,2026,PS-SNN: pattern separation learning for expandable spiking neural networks in class-incremental learning,Scientific Reports,0,10.1038/s41598-026-42970-6,
+35,2025,Exploring How mPFC and Hippocampus Enhance Generalization in PTSD-like Behavior Model,Theoretical and Natural Science,0,10.54254/2753-8818/2025.au27587,
+36,2025,Self-Erasing Neural Networks (SENNs): A Neurogenesis-Inspired Framework for GDPR-Compliant Machine Unlearning,"2025 IEEE 4th International Conference on Data, Decision and Systems (ICDDS)",0,10.1109/ICDDS67737.2025.11344675,
+37,2025,Dynamic gain neuromodulation attenuates the stability gap under joint training,,0,,2507.14056
+38,2026,Adaptive Olfactory Learning in Electronic Noses Using Neuromodulation-Inspired Reinforcement Signals,International Symposium on Olfaction and Electronic Nose,0,10.1109/ISOEN68725.2026.11665281,
+39,2026,Metaplasticity as adaptive gradient preconditioning for incremental learning,,0,,2608.14634
+40,2026,A computational model of the two dentate gyrus blades,bioRxiv,0,10.64898/2026.09.01.748300,
+41,2026,Meta-learning leading to homeostatic plasticity stabilizes synaptic weights together with predictable activity levels,bioRxiv,0,10.64898/2026.06.16.732795,
